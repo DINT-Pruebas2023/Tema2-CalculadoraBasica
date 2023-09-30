@@ -14,6 +14,7 @@ namespace Tema2_CalculadoraBasica
             InitializeComponent();
         }
 
+        /* Comentario en código C# */
         private void calcularButton_Click(object sender, RoutedEventArgs e)
         {
             if (String.IsNullOrEmpty(operando1TextBox.Text) || String.IsNullOrEmpty(operando2TextBox.Text))
