@@ -21,6 +21,6 @@
         <TextBox x:Name="resultadoTextBox" Grid.Column="1" HorizontalAlignment="Left" Height="24" Margin="98,196,0,0" TextWrapping="Wrap" VerticalAlignment="Top" Width="118" FontSize="15" IsReadOnly="True"/>
         <Button x:Name="calcularButton" Content="Calcular" Grid.Column="1" HorizontalAlignment="Left" Height="24" Margin="360,51,0,0" VerticalAlignment="Top" Width="91" FontSize="13.5" IsEnabled="False" IsDefault="True" Click="calcularButton_Click"/>
         <Button x:Name="limpiarButton" Content="Limpiar" Grid.Column="1" HorizontalAlignment="Left" Height="24" Margin="360,96,0,0" VerticalAlignment="Top" Width="91" FontSize="13.5" IsCancel="True" Click="limpiarButton_Click"/>
-
+        <!-- Simulamos un cambio para GITHUB. Comentario-1. -->
     </Grid>
 </Window>
